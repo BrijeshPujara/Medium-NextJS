@@ -10,6 +10,7 @@ const Home: NextPage = () => {
         <title>Medium Blog</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+    
       
       <Header />
       <div>
